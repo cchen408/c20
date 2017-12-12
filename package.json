@@ -4,7 +4,7 @@
   "description": "crypto20 fun",
   "main": "index.js",
   "engines": {
-    "node": ">8"
+    "node": "8.8.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
