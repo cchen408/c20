@@ -1,0 +1,22 @@
+{
+  "name": "c20-server",
+  "version": "1.0.0",
+  "description": "crypto20 fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchen408/c20.git"
+  },
+  "author": "Christopher Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchen408/c20/issues"
+  },
+  "homepage": "https://github.com/cchen408/c20#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
