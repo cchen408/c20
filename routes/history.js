@@ -5,15 +5,7 @@ var router = express.Router();
  * get historic data
  */
 router.get('/', function(req, res, next) {
-
-  console.log(`
-  
-  1
-  
-  `)
-
-
-  res.send({});
+    res.send({});
 });
 
 
